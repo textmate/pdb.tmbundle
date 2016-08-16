@@ -31,7 +31,7 @@
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>string.second-match</string>
+					<string>string.unquoted.second-match</string>
 				</dict>
 			</dict>
 			<key>comment</key>
@@ -69,7 +69,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>constant.first-match</string>
+					<string>constant.other.first-match</string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -92,7 +92,7 @@
 					 |DBREF|SEQRES|FORMUL|HELIX|CRYST1|ORIGX1|ORIGX2|ORIGX3|SCALE1|SCALE2|SCALE3|
 					 |CISPEP|SHEET)\b</string>
 			<key>name</key>
-			<string>comment</string>
+			<string>comment.line.other</string>
 		</dict>
 		<dict>
 			<key>comment</key>
