@@ -10,10 +10,6 @@
 	</array>
 	<key>firstLineMatch</key>
 	<string>(TITLE|REMARK|HEADER|ATOM)</string>
-	<key>foldingStartMarker</key>
-	<string>^\s*MODEL</string>
-	<key>foldingStopMarker</key>
-	<string>^\s*ENDMDL</string>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
