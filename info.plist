@@ -7,8 +7,7 @@
 	<key>contactName</key>
 	<string>Marc van Dijk</string>
 	<key>description</key>
-	<string>Bundle for the manipulation of RCSB or pseudo-RCSB PDB structure
-files.</string>
+	<string>Bundle for the manipulation of RCSB or pseudo-RCSB PDB structure files.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
