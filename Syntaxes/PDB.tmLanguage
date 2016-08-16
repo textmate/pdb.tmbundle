@@ -26,12 +26,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>entity.name.function.first-match</string>
+					<string>entity.name.function.first-match.pdb</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>string.unquoted.second-match</string>
+					<string>string.unquoted.second-match.pdb</string>
 				</dict>
 			</dict>
 			<key>comment</key>
@@ -40,7 +40,7 @@
 			<string>^(ATOM).*\b(ALA|ARG|ASN|ASP|ASX|CYS|GLU|GLN|GLX|GLY|HIS|ILE|LEU|LYS|MET|
 				      |PHE|PRO|SER|THR|TRP|TRY|TYR|VAL)\b</string>
 			<key>name</key>
-			<string>meta.test</string>
+			<string>meta.test.pdb</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -48,12 +48,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>entity.name.function.first-match</string>
+					<string>entity.name.function.first-match.pdb</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>constant.numeric.second-match</string>
+					<string>constant.numeric.second-match.pdb</string>
 				</dict>
 			</dict>
 			<key>comment</key>
@@ -61,7 +61,7 @@
 			<key>match</key>
 			<string>^(ATOM).*\b(ADE|THY|CYT|GUA|URI|DA|DT|DC|DG|RA|RC|RG|RU)\b</string>
 			<key>name</key>
-			<string>meta.test</string>
+			<string>meta.test.pdb</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -69,12 +69,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>constant.other.first-match</string>
+					<string>constant.other.first-match.pdb</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>constant.numeric.second-match</string>
+					<string>constant.numeric.second-match.pdb</string>
 				</dict>
 			</dict>
 			<key>comment</key>
@@ -82,7 +82,7 @@
 			<key>match</key>
 			<string>^(HETATM).*\b(HOH)\b</string>
 			<key>name</key>
-			<string>meta.test</string>
+			<string>meta.test.pdb</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -92,7 +92,7 @@
 					 |DBREF|SEQRES|FORMUL|HELIX|CRYST1|ORIGX1|ORIGX2|ORIGX3|SCALE1|SCALE2|SCALE3|
 					 |CISPEP|SHEET)\b</string>
 			<key>name</key>
-			<string>comment.line.other</string>
+			<string>comment.line.other.pdb</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -100,7 +100,7 @@
 			<key>match</key>
 			<string>^(ATOM|HETATM)</string>
 			<key>name</key>
-			<string>invalid.illegal</string>
+			<string>invalid.illegal.incomplete.pdb</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
