@@ -8,8 +8,6 @@
 		<string>pdbw</string>
 		<string>pdb1</string>
 	</array>
-	<key>firstLineMatch</key>
-	<string>(TITLE|REMARK|HEADER|ATOM)</string>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
